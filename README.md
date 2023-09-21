@@ -2,8 +2,8 @@
 
 This repository contains the statistical database extracted from the direct numerical simulation of zero-pressure gradient turbulent boundary layer ranging up to $`Re_\theta = 1070`$ with four different passive scalars corresponding to $`Pr=1,2,4,6`$.
 
-For a detailed comparison of the obtained statistics against the documented data available in the literature, please take a look at our article ![](https://img.shields.io/badge/arXiv-4b4b4b?style=flat&logo=arxiv&link=https://arxiv.org/pdf/2301.12915.pdf)
-
+For a detailed comparison of the obtained statistics against the documented data available in the literature, please take a look at our article ![](https://img.shields.io/badge/arXiv-4b4b4b?style=flat&logo=arxiv&link=https://arxiv.org/pdf/2301.12915.pdf) \
+(Note: Please click on the badge icon that opens in the new window. Possibility of a direct link through the badge shall be updated later.)
 
 You are free to use the database. For the use of DNS database in scientific communications, we request you to cite our article as:
 
