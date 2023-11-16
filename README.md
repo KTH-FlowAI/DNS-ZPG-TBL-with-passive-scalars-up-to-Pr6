@@ -7,12 +7,15 @@ For a detailed comparison of the obtained statistics against the documented data
 You are free to use the database. For the use of DNS database in scientific communications, we request you to cite our article as:
 
 ```
-@article{balasubramanian2023direct,
-  title={Direct numerical simulation of a zero-pressure-gradient thermal turbulent boundary layer up to $Pr= 6$},
-  author={Balasubramanian, A.G. and Guastoni, L. and Schlatter, P. and Vinuesa, R.},
-  journal={arXiv preprint arXiv:2301.12915 (To appear: J. Fluid Mech.)},
-  year={2023}
-} 
+@article{balasubramanian_guastoni_schlatter_vinuesa_2023,
+    title={Direct numerical simulation of a zero-pressure-gradient turbulent boundary layer with passive scalars up to {P}randtl number $Pr = 6$},
+    volume={974},
+    DOI={10.1017/jfm.2023.803},
+    journal={Journal of Fluid Mechanics},
+    publisher={Cambridge University Press},
+    author={Balasubramanian, Arivazhagan G. and Guastoni, Luca and Schlatter, Philipp and Vinuesa, Ricardo},
+    year={2023},
+    pages={A49}}
 ```
 
 ### Statistics dictionary ###
